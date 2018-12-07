@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
+
 class RandomWordsState extends State<RandomWords> {
   final _suggestions = <WordPair>[];
 
